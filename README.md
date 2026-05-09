@@ -23,43 +23,37 @@ A custom JavaScript plugin for Jellyfin that adds a device management panel to t
 ### Approve / Reject
 > Confirm or reject any device with one click. Status is saved server-side via Jellyfin's DisplayPreferences API.
 
-<img width="1290" height="2796" alt="IMG_5830" src="https://github.com/user-attachments/assets/2fcc565a-6925-496b-b15a-1e63acd97f25" />
-
 
 ---
 
 ### Rename a Device
 > Give any device a custom name (e.g. "Albin's iPhone"). The original name stays visible below.
 
-![Rename](screenshots/rename.png)
 
 ---
 
 ### Grouping Mode
 > Select multiple devices and group them under a custom name. Existing groups also get a checkbox so you can add devices directly to them.
 
-![Grouping](screenshots/grouping.png)
 
 ---
 
 ### Auto-Blocking
 > Enable auto-blocking to kick rejected or unknown sessions every 8 seconds. A live block log shows who got kicked and when.
 
-![Auto Blocking](screenshots/blocking.png)
 
 ---
 
 ### Waiting for Approval Screen
 > Non-admin users whose device hasn't been approved yet see a fullscreen black screen instead of the Jellyfin UI. The screen disappears automatically once the admin approves them.
 
-![Waiting Screen](screenshots/waiting.png)
+<img width="1290" height="2796" alt="IMG_5830" src="https://github.com/user-attachments/assets/2fcc565a-6925-496b-b15a-1e63acd97f25" />
 
 ---
 
 ### Rejected Screen
 > Devices that have been explicitly rejected see a static "Access denied" message — no polling, no retry.
 
-![Rejected Screen](screenshots/rejected.png)
 
 ---
 
