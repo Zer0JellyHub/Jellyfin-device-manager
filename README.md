@@ -8,8 +8,8 @@ A custom JavaScript plugin for Jellyfin that adds a device management panel to t
 
 ### Sidebar Button
 > The device manager appears in the admin sidebar alongside other plugin entries.
+<img width="1440" height="646" alt="Bildschirmfoto 2026-05-09 um 22 49 04" src="https://github.com/user-attachments/assets/85e210a1-7dae-4603-9a95-60404cdd24c0" />
 
-![Sidebar Button](screenshots/sidebar.png)
 
 ---
 
