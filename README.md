@@ -16,7 +16,8 @@ A custom JavaScript plugin for Jellyfin that adds a device management panel to t
 ### Device Overview
 > All devices grouped by physical device + user. Unknown devices appear first.
 
-![Device Overview](screenshots/overview.png)
+<img width="1440" height="900" alt="reject" src="https://github.com/user-attachments/assets/b569e4ce-db10-42b0-be91-d980f614bf01" />
+
 
 ---
 
