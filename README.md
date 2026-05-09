@@ -1,6 +1,6 @@
 # 🖥️ Jellyfin Device Manager
 
-!!It works but still in improving!!
+!! It works but still in improving !!
 
 A custom JavaScript plugin for Jellyfin that adds a device management panel to the admin sidebar — with approval workflow, auto-blocking, grouping, and a "Waiting for Approval" screen for unauthorized devices.
 
